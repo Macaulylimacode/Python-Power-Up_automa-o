@@ -24,7 +24,7 @@ Python-Power-Up_automa-o, automação de preenchimento de dados  para uma hosped
 ## Salvando no sistema
 
 <div align="center">
-  <img src="https://github.com/Macaulylimacode/Python-Power-Up_automa-o/assets/139823222/d6a75135-056b-4b27-ae67-13c9cfa3e3c0)"/>
+  <img src="https://github.com/Macaulylimacode/Python-Power-Up_automa-o/assets/139823222/d6a75135-056b-4b27-ae67-13c9cfa3e3c0"/>
 </div>
 
 # Tecnologias utilizadas
