@@ -45,7 +45,7 @@ Python-Power-Up_automa-o, automação de preenchimento de dados  para uma hosped
 # clonar repositório
 git clone github.com/Macaulylimacode/Python-Power-Up_automa-o/new/master?readme=1
 
-# entrar na pasta do projeto back end
+# entrar na pasta do projeto
 cd Python-Power-Up_automa-o
 
 # executar o projeto
