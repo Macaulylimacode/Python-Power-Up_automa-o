@@ -1,4 +1,5 @@
 # Python-Power-Up_automa-o
+
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Macaulylimacode/Python-Power-Up_automa-o/blob/master/LICENSE) 
 
 # Sobre o projeto
@@ -29,15 +30,18 @@ Python-Power-Up_automa-o, automação de preenchimento de dados  para uma hosped
 
 # Tecnologias utilizadas
 ## Linguagem
-- Python
+
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 ## Bibliotecas
 - pyautogui
 - pandas
 - time
-## Implantação em produção
-- jupyter
-- vscode
-- pycharm
+## IDE
+
+![visual](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![py](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+
 
 # Como executar o projeto
 
