@@ -55,5 +55,5 @@ cd Python-Power-Up_automa-o
 # Autor
 
 Macauly lima
+[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/macauly-lima-75984a269)
 
-https://https://www.linkedin.com/in/macauly-lima-75984a269
